@@ -20,6 +20,11 @@
   "bugs": {
     "url": "https://github.com/guraynsj/voxy07/issues"
   },
+    "author": {
+    "name": "Vladimir N. Korotenko",
+    "email": "koroten@ya.ru",
+    "url": "https://vkorotenko.ru"
+  },
   "devDependencies": {
     "gzip-size-cli": "^1.0.0",
     "pretty-bytes-cli": "^1.0.0",
